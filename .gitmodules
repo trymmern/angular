@@ -1,3 +1,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/trymmern/calculator.git
+[submodule "mockup_coda"]
+	path = mockup_coda
+	url = https://github.com/trymmern/mockup_coda
